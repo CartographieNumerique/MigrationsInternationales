@@ -4,15 +4,10 @@ Ce dépôt comprend plusieurs jeux de données.
 
 <ul>Les données en libre accès fournies par l'<a href="http://www.internal-displacement.org/">IDMC</a>
   
-Les données de l'observatoire des déplacements internes présentent des chiffres de déplacement interne par pays pour 2008, 2009, 2010 , 2011 , 2012 , 2013 , 2014 , 2015 , 2016 et 2017.
+Le jeu de données présente les <a href="http://www.internal-displacement.org/database/displacement-data">statistiques des déplacements internes par pays</a> pour de 2008 à 2017.
 
-Source : http://www.internal-displacement.org/database/displacement-data
+Champs attributaires (données au format *.shp et *.geojson) :
 
-
-Abréviations pour les formats SHP, JSON :
-
-CSD : Conflict Stock Displacement [Nombre total de déplacés internes (conflits et violences)] 
-
-CND : Conflict New Displacements [Nouveaux déplacements (Conflits et violences)] 
-
-DND : Disaster New Displacements [Nouveaux déplacements (catastrophes)] 
+<li>CSD : <i>Conflict Stock Displacement</i> [Nombre total de déplacés internes (conflits et violences)]<br>
+<li>CND : <i>Conflict New Displacements</i> [Nouveaux déplacements (Conflits et violences)]<br>
+<li>DND : <i>Disaster New Displacements</i> [Nouveaux déplacements (catastrophes)]
