@@ -6,7 +6,7 @@ Ce dépôt comprend plusieurs jeux de données.
 
 Nom : idmc_displacement_all_dataset_2008_2017.zip
   
-Le jeu de données présente les <a href="http://www.internal-displacement.org/database/displacement-data">statistiques des déplacements internes par pays</a> pour de 2008 à 2017.
+Le jeu de données présente les <a href="http://www.internal-displacement.org/database/displacement-data">statistiques des déplacements internes par pays</a> de 2008 à 2017.
 
 Champs attributaires (données au format *.shp et *.geojson) :
 
