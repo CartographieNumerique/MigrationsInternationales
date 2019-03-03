@@ -13,10 +13,20 @@ Champs attributaires (données au format *.shp et *.geojson) :
 <li>CSD : <i>Conflict Stock Displacement</i> [Nombre total de déplacés internes (conflits et violences)]<br>
 <li>CND : <i>Conflict New Displacements</i> [Nouveaux déplacements (Conflits et violences)]<br>
 <li>DND : <i>Disaster New Displacements</i> [Nouveaux déplacements (catastrophes)]
-  
 
 <b>Les données en libre accès fournies par la <a href="http://www.un.org/en/development/desa/population/index.shtml">Division Population de l'ONU</a></b>
 
 Nom : Migrants_2017_par pays_UN DESA.zip
   
 Le jeu de données présente les <a href="http://www.un.org/en/development/desa/population/migration/data/estimates2/estimates17.shtml">estimations du nombre de migrants par pays et par nationalité (stock de migrants internationaux par destination et origine)</a> pour l'année 2017.
+
+Nom : Stock_migrants_internationaux_1990-2017.zip
+  
+Le jeu de données présente les <a href="http://www.un.org/en/development/desa/population/migration/data/estimates2/estimates17.shtml">estimations du stock de migrants internationaux</a> pour 1990, 1995, 2000, 2005, 2010, 2015 et 2017.
+
+
+
+
+
+
+
