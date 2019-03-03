@@ -2,7 +2,7 @@
 
 Ce dépôt comprend plusieurs jeux de données.
 
-<ul>Les données en libre accès fournies par l'<a href="http://www.internal-displacement.org/">IDMC</a>
+<b>Les données en libre accès fournies par l'<a href="http://www.internal-displacement.org/">IDMC</a></b>
   
 Le jeu de données présente les <a href="http://www.internal-displacement.org/database/displacement-data">statistiques des déplacements internes par pays</a> pour de 2008 à 2017.
 
